@@ -39,5 +39,11 @@ section#login > div#imagem {
 section#login > div#formulario {
     float: right;
     width: 50%;
+    padding: 20px;
+}
+form {
+    padding: 10px;
+    
 }
 }
+
